@@ -1,0 +1,20 @@
+{
+    "software": {
+        "macnew": {
+            "date": 1734837206,
+            "ver": "1.2.00",
+            "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.2.00/LightBurn-Sur.V1.2.00.dmg"
+        },
+        "win64": {
+            "date": 1734837206,
+            "ver": "1.7.08",
+            "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.08/LightBurn-v1.7.08.exe"
+        },
+    },
+    "firmware": {
+        "date": 1734837206,
+        "ver": "1.0.34",
+        "file": "https://gitee.com/marxmake/deployment/raw/master/firmware/HiMill_D1-v1.0.34-20251222.bin"
+    },
+
+}

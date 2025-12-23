@@ -2,13 +2,13 @@
     "software": {
         "macnew": {
             "date": 1734837206,
-            "ver": "1.2.00",
+            "ver": "0.9.13",
             "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.2.00/LightBurn-Sur.V1.2.00.dmg"
         },
         "win64": {
             "date": 1734837206,
-            "ver": "1.7.08",
-            "file": "https://release.lightburnsoftware.com/LightBurn/Release/LightBurn-v1.7.08/LightBurn-v1.7.08.exe"
+            "ver": "0.9.13",
+            "file": "https://gitee.com/marxmake/deployment/releases/download/0.9.13/MaxmakeLAB_v0.9.13.exe"
         },
     },
     "firmware": {

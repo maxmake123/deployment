@@ -9,12 +9,11 @@
             "date": 1734837206,
             "ver": "0.9.13",
             "file": "https://gitee.com/marxmake/deployment/releases/download/0.9.13/MaxmakeLAB_v0.9.13.exe"
-        },
+        }
     },
     "firmware": {
         "date": 1734837206,
         "ver": "1.0.34",
         "file": "https://gitee.com/marxmake/deployment/raw/master/firmware/HiMill_D1-v1.0.34-20251222.bin"
-    },
-
+    }
 }

@@ -2,18 +2,18 @@
     "software": {
         "macnew": {
             "date": 1734837206,
-            "ver": "0.9.13",
-            "file": "https://github.com/LightBurnSoftware/deployment/releases/download/1.2.00/LightBurn-Sur.V1.2.00.dmg"
+            "ver": "0.9.14",
+            "file": "https://assets.maxmake.com/Maxmakelab/MaxmakeLAB_v0.9.14.dmg"
         },
         "win64": {
             "date": 1734837206,
-            "ver": "0.9.13",
-            "file": "https://gitee.com/marxmake/deployment/releases/download/0.9.13/MaxmakeLAB_v0.9.13.exe"
+            "ver": "0.9.14",
+            "file": "https://assets.maxmake.com/Maxmakelab/MaxmakeLAB_v0.9.14.exe"
         }
     },
     "firmware": {
         "date": 1734837206,
         "ver": "1.0.34",
-        "file": "https://gitee.com/marxmake/deployment/raw/master/firmware/HiMill_D1-v1.0.34-20251222.bin"
+        "file": "https://github.com/marxmake123/deployment/raw/master/firmware/HiMill_D1-v1.0.34-20251222.bin"
     }
 }
